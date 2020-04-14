@@ -33,7 +33,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "bluebird": "^3.5.0",
     "bulma": "^0.5.3",
     "classnames": "^2.2.5",
